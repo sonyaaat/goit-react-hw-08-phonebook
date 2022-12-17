@@ -1,0 +1,22 @@
+.header{
+    padding: 10px;
+    height: 50px;
+    
+   
+    border-bottom: 1px solid black;
+}
+.nav{
+    justify-content: space-between;
+    display: flex;
+}
+.link{
+    font-size: 20px;
+    color: black;
+}
+.link:not(:last-child)
+{
+    margin-right: 10px;
+}
+.active{
+color: blue;
+}

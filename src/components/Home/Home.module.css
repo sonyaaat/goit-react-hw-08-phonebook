@@ -1,0 +1,23 @@
+.header{
+    font-size: 60px;
+    color: #337AB7;
+    text-align: center;
+    padding: 40px;
+}
+.img{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text{
+    color: #337AB7;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+.link{
+    font-weight: bold;
+    color: #1d5d94;
+}

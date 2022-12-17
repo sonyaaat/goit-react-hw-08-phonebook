@@ -1,0 +1,26 @@
+.button{
+    margin-left: 15px;
+    width: 90px;
+    height: 30px;
+    background-color: #337AB7;
+    padding: 5px;
+    text-align: center;
+color: white;
+border: none;
+font-size: 20px;
+border-radius: 5px;
+cursor:pointer;
+}
+.button:hover{
+background-color: blue;
+}
+.text{
+    margin-left: 15px;
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+}
+.img{
+    border-radius: 50%;
+}
